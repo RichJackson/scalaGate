@@ -4,8 +4,6 @@ package rj
   * Created by rich on 24/02/17.
   */
 import java.io.File
-
-import Run._
 import GateRunner._
 import gate.Gate
 
